@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm Pragya Srivastava, a passionate Blockchain and
 ## 🚀 Projects
 - **Course Selling Backend App**: Developed a robust backend application for course selling.
 - **GymBuddy**: https://github.com/SrivastavaPragya/gymExercise
-- **AI Article Summarizer**: View on GitHub](https://github.com/SrivastavaPragya/Ai-Summarizer
+- **AI Article Summarizer**:https://github.com/SrivastavaPragya/Ai-Summarizer
 - **Modular Website**:https://github.com/SrivastavaPragya/DynamicSite
 
 ## 🛠 Skills
