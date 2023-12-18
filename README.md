@@ -36,6 +36,46 @@ Welcome to my GitHub profile! I'm Pragya Srivastava, a passionate Blockchain and
 - **GymBuddy**: https://github.com/SrivastavaPragya/gymExercise
 - **AI Article Summarizer**:https://github.com/SrivastavaPragya/Ai-Summarizer
 - **Modular Website**:https://github.com/SrivastavaPragya/DynamicSite
+  ## 🛠️ My Favorite Tools
+
+### Programming Languages
+- C++
+- CSS
+- HTML
+- JavaScript
+- Node.js
+- TypeScript
+- SQL
+- Solidity
+- Reactjs
+  
+
+### Hosting/SaaS
+- AWS
+- GitHub Pages
+- Firebase
+- Netlify
+
+
+### Frameworks and Libraries
+- Bootstrap
+- Express.js
+- React
+- JWT
+- Material-UI
+- Node.js
+- Styled-components
+- Expressjs
+
+
+### Databases and Cloud Hosting
+- MySQL
+- MongoDB
+- Figma
+
+
+<!-- Add more tools as needed -->
+
 
 ## 🛠 Skills
 - Languages: C++, HTML, SQL, CSS, JavaScript, TypeScript
@@ -43,6 +83,7 @@ Welcome to my GitHub profile! I'm Pragya Srivastava, a passionate Blockchain and
 - Databases: MongoDB
 - Blockchain: Solidity, Layer2 Solutions, Research
 - Cloud Services: AWS EC2, AWS Lambda, Amazon RDS, Amazon S3
+  
 
 Thank you for visiting my profile. Let's connect and collaborate on exciting projects!
 
