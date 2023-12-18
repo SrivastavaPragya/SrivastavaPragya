@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @SrivastavaPragya
 
-Welcome to my GitHub profile! I'm Pragya Srivastava, a passionate Blockchain and Full Stack Developer from Prayagraj, Uttar Pradesh, India. 
+Welcome to my GitHub profile! I'm Pragya Srivastava, a passionate Blockchain and Full Stack Developer
 
 ## 👀 I’m Interested In
 - Blockchain Technology
@@ -36,45 +36,12 @@ Welcome to my GitHub profile! I'm Pragya Srivastava, a passionate Blockchain and
 - **GymBuddy**: https://github.com/SrivastavaPragya/gymExercise
 - **AI Article Summarizer**:https://github.com/SrivastavaPragya/Ai-Summarizer
 - **Modular Website**:https://github.com/SrivastavaPragya/DynamicSite
-  ## 🛠️ My Favorite Tools
-
-### Programming Languages
-- C++
-- CSS
-- HTML
-- JavaScript
-- Node.js
-- TypeScript
-- SQL
-- Solidity
-- Reactjs
-  
-
-### Hosting/SaaS
-- AWS
-- GitHub Pages
-- Firebase
-- Netlify
+ 
 
 
-### Frameworks and Libraries
-- Bootstrap
-- Express.js
-- React
-- JWT
-- Material-UI
-- Node.js
-- Styled-components
-- Expressjs
 
 
-### Databases and Cloud Hosting
-- MySQL
-- MongoDB
-- Figma
 
-
-<!-- Add more tools as needed -->
 
 
 ## 🛠 Skills
