@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm Pragya Srivastava, a passionate Blockchain and
 
 ## 📫 How to Reach Me
 - Email:pragya142018@gmail.com
-- Phone: +91 8604789802
 - Portfolio:https://pragya-srivastava.netlify.app/
 
 ## 🎓 Education
