@@ -126,28 +126,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-black?style=for-the-badge)
 
----
-
-# 📊 GitHub Stats  
-
-<div align="center">
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivastavaPragya&theme=tokyonight&hide_border=false&layout=compact)
 
-</div>
-
----
-
-# 🎓 Education  
-
-🎓 **Bachelor of Technology (B.Tech)**  
-Dr. APJ Abdul Kalam Technical University *(2022 – 2024)*  
-
----
-
-<div align="center">
-
-### ⭐ “Building scalable software today while shaping AI systems for tomorrow.”  
-
-</div>
