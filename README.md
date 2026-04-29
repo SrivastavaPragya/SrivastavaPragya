@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pragya Srivastava  
+ 👋 Hi, I’m Pragya Srivastava  
 
 ### Full Stack Developer | AI Engineer | Building with LLMs, RAG & Agentic Workflows  
 
