@@ -37,7 +37,7 @@ Welcome to my GitHub! I’m a Software Development Engineer passionate about bui
 
 ### **Software Development Engineer** — Perceptiviti Data Solutions Pvt. Ltd (July 2024 – Present)  
 - Built an **AI Agent platform** for automated email workflows, improving workflow automation by **40%**
-- Developed scalable backend services with **Python**
+- Developed scalable backend services with **Python**/**Django**
 - Integrated **Stripe & PayPal** for SaaS subscription systems
 - Enhanced analytics dashboards with **Next.js, React, TailwindCSS**
 - Improved SEO and product performance, increasing organic growth by **20%**
