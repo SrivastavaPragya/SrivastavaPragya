@@ -132,8 +132,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SrivastavaPragya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SrivastavaPragya&theme=tokyonight&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivastavaPragya&theme=tokyonight&hide_border=false&layout=compact)
 
 </div>
