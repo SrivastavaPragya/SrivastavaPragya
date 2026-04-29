@@ -44,7 +44,7 @@
 
 ## **Software Development Engineer** — Perceptiviti Data Solutions Pvt. Ltd *(July 2024 – Present)*  
 ✔ Developed an **AI Agent Platform** for automated email workflows, improving efficiency by **40%**  
-✔ Built scalable backend systems using **Python**  
+✔ Built scalable backend systems using **Python**/**Django**  
 ✔ Integrated **Stripe + PayPal** subscription systems  
 ✔ Enhanced dashboards with **Next.js, TailwindCSS, React**  
 ✔ Improved SaaS growth through analytics + SEO optimization  
@@ -82,7 +82,7 @@
 
 ---
 
-## 🤖 SalesRobo.ai — AI Sales Automation  
+## 🤖 SalesRobo.ai — AI Sales Automation -Salesrobo Product
 **Tech:** Next.js • Redux • TailwindCSS  
 - Built scalable frontend architecture  
 - Payment integration + onboarding workflows  
