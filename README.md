@@ -14,7 +14,7 @@
 🔹 Software Development Engineer at **Perceptiviti Data Solutions Pvt. Ltd**  
 🔹 Passionate about **Full Stack Development + AI Engineering**  
 🔹 Currently exploring **RAG, LangChain, AI Agents, LLM Workflows**  
-🔹 Building scalable SaaS platforms with **Next.js, Django, Python, Node.js**  
+🔹 Building scalable SaaS platforms with **Next.js,React.js, Django, Python, Node.js**  
 🔹 Open to **Full Stack Developer / Software Engineer Opportunities**  
 
 ---
