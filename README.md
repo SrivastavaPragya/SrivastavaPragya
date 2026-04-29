@@ -1,134 +1,154 @@
-# 👋 Hi, I’m Pragya Srivastava   
+<div align="center">
 
-### Full Stack Developer | AI Engineer | Building with LLMs, RAG & Agentic Workflows  
+# Hi 👋, I'm Pragya Srivastava  
+### Full Stack Developer | AI Engineer | LLM • RAG • LangChain • Agentic AI  
 
-Welcome to my GitHub! I’m a Software Development Engineer passionate about building scalable full-stack applications, AI-powered platforms, and intelligent automation systems. Currently, I’m actively exploring **LLMs, RAG architectures, LangChain, and AI Agents** while seeking **Full Stack / Software Engineer opportunities** where I can build impactful products.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full+Stack+Applications;Exploring+LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;Open+to+Full+Stack+%2F+SDE+Roles" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me  
-- 💼 **Software Development Engineer @ Perceptiviti Data Solutions Pvt. Ltd**
-- 🌍 Focused on **Full Stack Development + AI Engineering**
-- 🤖 Exploring **RAG Systems, LangChain, LLM Applications, and Agentic AI**
-- ☁️ Working with **AWS, Docker, CI/CD, scalable backend systems**
-- 🎯 Currently looking for **Full Stack Developer / SDE Roles/Frontend Developer**
 
----
-
-## 👀 Interests  
-- Full Stack Web Development  
-- AI Agents & Automation  
-- Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)   
-- Scalable SaaS Platforms  
+🔹 Software Development Engineer at **Perceptiviti Data Solutions Pvt. Ltd**  
+🔹 Passionate about **Full Stack Development + AI Engineering**  
+🔹 Currently exploring **RAG, LangChain, AI Agents, LLM Workflows**  
+🔹 Building scalable SaaS platforms with **Next.js, Django, Python, Node.js**  
+🔹 Open to **Full Stack Developer / Software Engineer Opportunities**  
 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced RAG Architectures  
-- LangChain & Agentic AI Systems  
-- LLM Application Development  
-- Cloud Infrastructure (AWS)  
-- Scalable System Design  
+
+- Advanced **RAG Architectures**
+- **LangChain + Agentic AI**
+- LLM Product Engineering  
+- AWS Cloud & System Design  
+- Scalable AI Automation  
 
 ---
 
-## 💼 Experience  
+## 🌐 Connect With Me  
 
-### **Software Development Engineer** — Perceptiviti Data Solutions Pvt. Ltd (July 2024 – Present)  
-- Built an **AI Agent platform** for automated email workflows, improving workflow automation by **40%**
-- Developed scalable backend services with **Python**/**Django**
-- Integrated **Stripe & PayPal** for SaaS subscription systems
-- Enhanced analytics dashboards with **Next.js, React, TailwindCSS**
-- Improved SEO and product performance, increasing organic growth by **20%**
-
-### **Backend Developer** — CodingJr Pvt. Ltd (Feb 2024 – Apr 2024)  
-- Developed and deployed **5 full-stack applications**
-- Improved platform functionality, user satisfaction, and UI/UX
-- Increased user interactions by **40%**
+<p align="left">
+<a href="mailto:pragya142018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SrivastavaPragya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pragya-srivastava-66a618211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://pragya-srivastava.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects  
+# 💼 Experience  
 
-### 🧠 eLearny — AI-Powered Learning Hub  
-**Tech Stack:** React, Node.js, SQL, JWT, Stripe, LLM  
-- Built an AI-driven course platform with **personalized course recommendations**
-- Integrated **LLM-powered quiz generation**
-- Secure payment infrastructure with Stripe  
-🔗 GitHub: https://github.com/SrivastavaPragya/eLearny  
-
----
-
-### 📊 ScopeAI — AI Research Assistant  
-**Tech Stack:** Django, LangChain, Gemini, Web Scraping  
-- Built a research automation platform transforming startup ideas into structured market reports
-- Implemented **LangChain + Gemini workflows**
-- Automated report & PPT generation  
-🔗 GitHub: https://github.com/SrivastavaPragya/scopeAi  
+## **Software Development Engineer** — Perceptiviti Data Solutions Pvt. Ltd *(July 2024 – Present)*  
+✔ Developed an **AI Agent Platform** for automated email workflows, improving efficiency by **40%**  
+✔ Built scalable backend systems using **Python**  
+✔ Integrated **Stripe + PayPal** subscription systems  
+✔ Enhanced dashboards with **Next.js, TailwindCSS, React**  
+✔ Improved SaaS growth through analytics + SEO optimization  
 
 ---
 
-### 🤖 SalesRobo.ai — AI Sales Automation Platform -Perceptiviti Product
-**Tech Stack:** Next.js, Redux, TailwindCSS  
-- Led frontend architecture
-- Built payment integrations, authentication, and scalable UI systems  
-🔗 Live: https://www.salesrobo.ai/  
+## **Backend Developer** — CodingJr Pvt. Ltd *(Feb 2024 – Apr 2024)*  
+✔ Built & deployed **5 full-stack web apps**  
+✔ Improved user interaction by **40%**  
+✔ Enhanced platform performance + backend scalability  
 
 ---
 
-### 🏋️ GymBuddy  
-- Fitness and exercise-focused full stack project  
-🔗 GitHub: https://github.com/SrivastavaPragya/gymExercise  
+# 🚀 Featured Projects  
+
+## 🧠 eLearny — Full Stack AI Learning Hub  
+**Tech:** React • Node.js • SQL • JWT • Stripe • LLM  
+- AI-powered personalized course recommendations  
+- Dynamic quiz generation using LLMs  
+- Secure authentication + payments  
+
+🔗 **Live:** https://next-skill-sphere.vercel.app/  
+🔗 **GitHub:** https://github.com/SrivastavaPragya/eLearny  
 
 ---
 
-### 📰 AI Article Summarizer  
-- AI-powered article summarization tool  
-🔗 GitHub: https://github.com/SrivastavaPragya/Ai-Summarizer  
+## 📊 ScopeAI — AI Research Assistant  
+**Tech:** Django • LangChain • Gemini • Web Scraping  
+- Startup idea → Market Research Automation  
+- Competitor analysis + JSON insights  
+- Automated reports + PPT generation  
+
+🔗 **Live:** https://scope-ai-xi.vercel.app/  
+🔗 **GitHub:** https://github.com/SrivastavaPragya/scopeAi  
 
 ---
 
-## 🛠 Tech Stack  
+## 🤖 SalesRobo.ai — AI Sales Automation  
+**Tech:** Next.js • Redux • TailwindCSS  
+- Built scalable frontend architecture  
+- Payment integration + onboarding workflows  
+
+🔗 **Live:** https://www.salesrobo.ai/  
+
+---
+
+## 🏋️ GymBuddy  
+🔗 https://github.com/SrivastavaPragya/gymExercise  
+
+## 📰 AI Article Summarizer  
+🔗 https://github.com/SrivastavaPragya/Ai-Summarizer  
+
+---
+
+# 🛠 Tech Stack  
 
 ### Languages  
-`C/C++` `Python` `JavaScript` `TypeScript` `HTML` `CSS` `SQL`  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries  
-`ReactJS` `NextJS` `NodeJS` `Django REST` `ExpressJS` `LangChain` `Redux/Recoil` `TailwindCSS` `Zod`  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases  
-`MongoDB` `MySQL` `PostgreSQL`  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI / Emerging Tech  
-`LLMs` `RAG` `LangChain` `Agentic AI` `Machine Learning`  
-
-### Tools & Cloud  
-`AWS` `Docker` `CI/CD` `Git/GitHub` `Stripe` `PayPal`  
-
----
-
-## 🎓 Education  
-**Bachelor of Technology (B.Tech)**  
-Dr. APJ Abdul Kalam Technical University (2022 – 2024)
+### AI / Cloud / Tools  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-02569B?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-black?style=for-the-badge)
 
 ---
 
-## 💞️ Open to Collaborate On  
-- Full Stack Products  
-- AI / LLM Applications  
-- RAG Systems  
-- Open Source Projects  
-- SaaS Platforms
-- Scalable Frontend Products 
+# 📊 GitHub Stats  
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=SrivastavaPragya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SrivastavaPragya&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivastavaPragya&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
 
 ---
 
-## 📫 Connect With Me  
-- 📧 Email: pragya142018@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/pragya-srivastava-66a618211/  
-- 🌐 GitHub: https://github.com/SrivastavaPragya  
+# 🎓 Education  
+
+🎓 **Bachelor of Technology (B.Tech)**  
+Dr. APJ Abdul Kalam Technical University *(2022 – 2024)*  
 
 ---
 
-### ⭐ “Building scalable software today while shaping intelligent AI systems for tomorrow.”  
+<div align="center">
+
+### ⭐ “Building scalable software today while shaping AI systems for tomorrow.”  
+
+</div>
