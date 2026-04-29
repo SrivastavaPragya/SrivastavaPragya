@@ -3,7 +3,7 @@
 # Hi 👋, I'm Pragya Srivastava  
 ### Full Stack Developer | AI Engineer | LLM • RAG • LangChain • Agentic AI  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full+Stack+Applications;Exploring+LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;Open+to+Full+Stack+%2F+SDE+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full+Stack+Applications;Exploring+LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;Open+to+Full+Stack+%2F+SDE+Roles+frontend+Developer" alt="Typing SVG" />
 
 </div>
 
