@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m a Software Development Engineer passionate about bui
 - 🌍 Focused on **Full Stack Development + AI Engineering**
 - 🤖 Exploring **RAG Systems, LangChain, LLM Applications, and Agentic AI**
 - ☁️ Working with **AWS, Docker, CI/CD, scalable backend systems**
-- 🎯 Currently looking for **Full Stack Developer / SDE Roles**
+- 🎯 Currently looking for **Full Stack Developer / SDE Roles/Frontend Developer**
 
 ---
 
@@ -19,8 +19,7 @@ Welcome to my GitHub! I’m a Software Development Engineer passionate about bui
 - Full Stack Web Development  
 - AI Agents & Automation  
 - Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- Blockchain & Web3 Innovation  
+- Retrieval-Augmented Generation (RAG)   
 - Scalable SaaS Platforms  
 
 ---
@@ -70,7 +69,7 @@ Welcome to my GitHub! I’m a Software Development Engineer passionate about bui
 
 ---
 
-### 🤖 SalesRobo.ai — AI Sales Automation Platform  
+### 🤖 SalesRobo.ai — AI Sales Automation Platform -Perceptiviti Product
 **Tech Stack:** Next.js, Redux, TailwindCSS  
 - Led frontend architecture
 - Built payment integrations, authentication, and scalable UI systems  
@@ -120,7 +119,8 @@ Dr. APJ Abdul Kalam Technical University (2022 – 2024)
 - AI / LLM Applications  
 - RAG Systems  
 - Open Source Projects  
-- SaaS Platforms  
+- SaaS Platforms
+- Scalable Frontend Products 
 
 ---
 
